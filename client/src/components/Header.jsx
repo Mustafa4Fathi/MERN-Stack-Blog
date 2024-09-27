@@ -34,7 +34,7 @@ const Header = () => {
                 </Button>
                 <Link>
                     <Button className="bg-gradient-to-r from-purple-500
-                to-indigo-600">
+                to-indigo-600" outline>
                         Sign In
                     </Button>
                 </Link>
